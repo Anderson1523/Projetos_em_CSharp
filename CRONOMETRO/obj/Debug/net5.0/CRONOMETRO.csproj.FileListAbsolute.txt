@@ -1,0 +1,16 @@
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\bin\Debug\net5.0\CRONOMETRO.exe
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\bin\Debug\net5.0\CRONOMETRO.deps.json
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\bin\Debug\net5.0\CRONOMETRO.runtimeconfig.json
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\bin\Debug\net5.0\CRONOMETRO.runtimeconfig.dev.json
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\bin\Debug\net5.0\CRONOMETRO.dll
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\bin\Debug\net5.0\CRONOMETRO.pdb
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\obj\Debug\net5.0\CRONOMETRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\obj\Debug\net5.0\CRONOMETRO.AssemblyInfoInputs.cache
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\obj\Debug\net5.0\CRONOMETRO.AssemblyInfo.cs
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\obj\Debug\net5.0\CRONOMETRO.csproj.CoreCompileInputs.cache
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\obj\Debug\net5.0\CRONOMETRO.dll
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\obj\Debug\net5.0\ref\CRONOMETRO.dll
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\obj\Debug\net5.0\CRONOMETRO.pdb
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\obj\Debug\net5.0\CRONOMETRO.genruntimeconfig.cache
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\obj\Debug\net5.0\CRONOMETRO.csproj.AssemblyReference.cache
+C:\Users\AndersonSA\source\repos\CRONOMETRO\CRONOMETRO\obj\Debug\net5.0\refint\CRONOMETRO.dll
