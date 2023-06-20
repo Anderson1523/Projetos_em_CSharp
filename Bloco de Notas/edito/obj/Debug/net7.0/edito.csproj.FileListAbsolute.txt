@@ -1,0 +1,15 @@
+C:\Users\AndersonSA\source\repos\edito\edito\bin\Debug\net7.0\edito.exe
+C:\Users\AndersonSA\source\repos\edito\edito\bin\Debug\net7.0\edito.deps.json
+C:\Users\AndersonSA\source\repos\edito\edito\bin\Debug\net7.0\edito.runtimeconfig.json
+C:\Users\AndersonSA\source\repos\edito\edito\bin\Debug\net7.0\edito.dll
+C:\Users\AndersonSA\source\repos\edito\edito\bin\Debug\net7.0\edito.pdb
+C:\Users\AndersonSA\source\repos\edito\edito\obj\Debug\net7.0\edito.csproj.AssemblyReference.cache
+C:\Users\AndersonSA\source\repos\edito\edito\obj\Debug\net7.0\edito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonSA\source\repos\edito\edito\obj\Debug\net7.0\edito.AssemblyInfoInputs.cache
+C:\Users\AndersonSA\source\repos\edito\edito\obj\Debug\net7.0\edito.AssemblyInfo.cs
+C:\Users\AndersonSA\source\repos\edito\edito\obj\Debug\net7.0\edito.csproj.CoreCompileInputs.cache
+C:\Users\AndersonSA\source\repos\edito\edito\obj\Debug\net7.0\edito.dll
+C:\Users\AndersonSA\source\repos\edito\edito\obj\Debug\net7.0\refint\edito.dll
+C:\Users\AndersonSA\source\repos\edito\edito\obj\Debug\net7.0\edito.pdb
+C:\Users\AndersonSA\source\repos\edito\edito\obj\Debug\net7.0\edito.genruntimeconfig.cache
+C:\Users\AndersonSA\source\repos\edito\edito\obj\Debug\net7.0\ref\edito.dll
